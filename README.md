@@ -1,2 +1,2 @@
-# vercel-clone-
+# vercel-clone
 Vercel Clone
